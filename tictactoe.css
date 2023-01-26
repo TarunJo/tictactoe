@@ -43,3 +43,8 @@ table tr td:last-child {
   font-size: 2em;
   border-radius: 5px;
 }
+
+button {
+  margin-top: 30%;
+  margin-left: 48%;
+}
